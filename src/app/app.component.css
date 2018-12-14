@@ -1,0 +1,29 @@
+
+.display {
+    margin:auto;
+    width:70%;
+    border:2px solid green;
+    align-items: center;
+    overflow: hidden;
+    background-image:url("win.gif");
+    background-size:cover;
+}
+.msg {
+opacity:0.9;
+margin:auto;
+color:black;
+}
+.name {
+    background-color:greenyellow;
+    width:20%;
+    height:10%;
+    font-size:20px;
+    color:black;
+    border-radius:20px;
+}
+.typing-area {
+    position:fixed;
+    top:80%;
+    width:100%;
+    border-top:2px solid black;
+}
